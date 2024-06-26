@@ -1,1 +1,1 @@
-# First-project
+This project aims to present my first video game.
